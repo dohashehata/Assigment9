@@ -1,0 +1,8 @@
+body{
+    font-family: 'Great Vibes', cursive;
+font-family: 'Pacifico', cursive;
+}
+:root{
+    --font1:'Great Vibes', cursive;
+    --font2:'Pacifico', cursive;
+}
